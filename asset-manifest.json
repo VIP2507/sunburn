@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sunburn/static/css/main.13b961e3.chunk.css",
+    "main.js": "/sunburn/static/js/main.0631c0d1.chunk.js",
+    "main.js.map": "/sunburn/static/js/main.0631c0d1.chunk.js.map",
+    "runtime-main.js": "/sunburn/static/js/runtime-main.35251d9c.js",
+    "runtime-main.js.map": "/sunburn/static/js/runtime-main.35251d9c.js.map",
+    "static/js/2.f624984f.chunk.js": "/sunburn/static/js/2.f624984f.chunk.js",
+    "static/js/2.f624984f.chunk.js.map": "/sunburn/static/js/2.f624984f.chunk.js.map",
+    "index.html": "/sunburn/index.html",
+    "precache-manifest.8f2fe114831c818888b00b9a5df92c6c.js": "/sunburn/precache-manifest.8f2fe114831c818888b00b9a5df92c6c.js",
+    "service-worker.js": "/sunburn/service-worker.js",
+    "static/css/main.13b961e3.chunk.css.map": "/sunburn/static/css/main.13b961e3.chunk.css.map",
+    "static/js/2.f624984f.chunk.js.LICENSE.txt": "/sunburn/static/js/2.f624984f.chunk.js.LICENSE.txt",
+    "static/media/slide_five.jpg": "/sunburn/static/media/slide_five.bd1392bc.jpg",
+    "static/media/slide_four.jpg": "/sunburn/static/media/slide_four.80092545.jpg",
+    "static/media/slide_one.jpg": "/sunburn/static/media/slide_one.073d545e.jpg",
+    "static/media/slide_three.jpg": "/sunburn/static/media/slide_three.0ce7e536.jpg",
+    "static/media/sun6.jpg": "/sunburn/static/media/sun6.d1672d55.jpg",
+    "static/media/sun7.jpg": "/sunburn/static/media/sun7.78103f1d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35251d9c.js",
+    "static/js/2.f624984f.chunk.js",
+    "static/css/main.13b961e3.chunk.css",
+    "static/js/main.0631c0d1.chunk.js"
+  ]
+}
